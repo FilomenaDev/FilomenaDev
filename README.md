@@ -1,7 +1,6 @@
 ![Filomena GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilomenaDev&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-<a href="https://github.com/FilomenaDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&SmartStock=github-readme-stats" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FilomenaDev)](https://github.com/FilomenaDev/github-readme-stats)
+
 <a href="https://github.com/FilomenaDev/SmartStock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=SmartStock" />
 </a>
