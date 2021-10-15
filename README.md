@@ -2,10 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilomenaDev&layout=compact)](https://github.com/FilomenaDev/github-readme-stats)
 
 <a href="https://github.com/FilomenaDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&SmartStock=github-readme-stats" />
 </a>
-<a href="https://github.com/FilomenaDev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=convoychat" />
+<a href="https://github.com/FilomenaDev/SmartStock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=SmartStock" />
 </a>
 
 
