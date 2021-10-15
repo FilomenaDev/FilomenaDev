@@ -1,7 +1,7 @@
 ![Filomena GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilomenaDev&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilomenaDev)](https://github.com/FilomenaDev/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&SmartStok=github-readme-stats)](https://github.com/FilomenaDev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&FilomenaDev=github-readme-stats)](https://github.com/FilomenaDev/github-readme-stats)
 
 
 <!--
