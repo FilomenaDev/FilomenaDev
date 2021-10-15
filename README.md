@@ -1,7 +1,11 @@
 ![Filomena GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilomenaDev&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+
+I am a Computer Engineer with more than 8
+years of experience working in the sector
+of software development. My
+work focuses on mobile applications (Java, Kotlin, Flutter and Xamarin), APIRest (Nodejs, JavaScript, java Quarkus and Kotlin) and database (Mysql, Postgres Mysql Server).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilomenaDev&layout=compact)](https://github.com/FilomenaDev/github-readme-stats)
-
-
 <a href="https://github.com/FilomenaDev/SmartStock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=SmartStock" />
 </a>
