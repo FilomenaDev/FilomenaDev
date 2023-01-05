@@ -6,8 +6,8 @@ of software development. My
 work focuses on mobile applications (Java, Kotlin, Flutter and Xamarin), APIRest (Nodejs, JavaScript, java Quarkus and Kotlin) and database (Mysql, Postgres, Mysql Server) e database noSql MongoDB.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilomenaDev&layout=compact)](https://github.com/FilomenaDev/github-readme-stats)
-<a href="https://github.com/FilomenaDev/SmartStock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=SmartStock" />
+<a href="https://github.com/FilomenaDev/DurgenceApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilomenaDev&repo=DurgenceApp" />
 </a>
 
 
